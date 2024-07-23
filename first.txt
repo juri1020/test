@@ -1,7 +1,7 @@
 aaaaa
 bbbbb
 
-if (a==b){
+if (a==C){
 
 
 int aaaa;
