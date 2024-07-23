@@ -1,2 +1,13 @@
 aaaaa
 bbbbb
+
+if (a==b){
+
+
+int aaaa;
+string str;
+
+printf(aaaaa);
+
+
+}
